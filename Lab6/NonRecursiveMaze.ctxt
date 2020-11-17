@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NonRecursiveMaze
+comment1.params=other
+comment1.target=NonRecursiveMaze(int[][])
+comment2.params=x\ y
+comment2.target=boolean\ isSafe(int,\ int)
+comment3.params=
+comment3.target=void\ printSolution()
+comment4.params=x\ y
+comment4.target=boolean\ solveMaze(int,\ int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

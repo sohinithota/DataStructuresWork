@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ExtArrayList
+comment1.params=ea
+comment1.target=ExtArrayList\ append(ExtArrayList)
+comment2.params=e1\ e2
+comment2.target=boolean\ consecutivePair(java.lang.Object,\ java.lang.Object)
+numComments=3
